@@ -1,5 +1,9 @@
 # Exploratory Data Analysis and Data Analytics Notebook
 
+Name: **Sai Krishna Pranay Kanisetti**
+
+Reg. no: **21BDS0056**
+
 This project contains a Jupyter Notebook for performing **Exploratory Data Analysis (EDA)** on the `cancer.csv` dataset. The notebook explores various techniques for data visualization, cleaning, and analysis.
 
 ## Features
